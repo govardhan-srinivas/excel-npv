@@ -1,0 +1,24 @@
+{
+  "name": "excel-npv",
+  "version": "1.0.0",
+  "description": "Get Excel NPV values ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govardhan-s92/excel-npv.git"
+  },
+  "keywords": [
+    "excel",
+    "npv",
+    "nodejs"
+  ],
+  "author": "govardhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/govardhan-s92/excel-npv/issues"
+  },
+  "homepage": "https://github.com/govardhan-s92/excel-npv#readme"
+}
