@@ -32,7 +32,7 @@ Get Finance NPV values as similar to Excel NPV function with Node package soluti
 
  ### Typescript
 
-	import { Finance } from 'financejs'
+	import { Finance } from 'excel-npv'
 	let finance = new Finance();
 	// To calculate NPV
 	finance.NPV(3.125, -100000, 50000, 40000, 30000, 20000);
