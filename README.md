@@ -43,7 +43,7 @@ Get Finance NPV values as similar to Excel NPV function with Node package soluti
 
  <code class="highlight">finance.NPV(discountRate, intialInvestment, [cash flows]);</code></h3>
 
- <p>Net Present Value (NPV) compares the money received in the future to an amount of money received today, while accounting for time and interest [through the discount rate]. It's based on the principal of time value of money (TVM), which explains how time affects monetary value.<sup><a href="http://www.investopedia.com/articles/fundamental-analysis/09/net-present-value.asp" target="_blank">8</a></sup></p>
+ <p>Net Present Value (NPV) compares the money received in the future to an amount of money received today, while accounting for time and interest [through the discount rate]. It's based on the principal of time value of money (TVM), which explains how time affects monetary value.<sup><a href="http://www.investopedia.com/articles/fundamental-analysis/09/net-present-value.asp" target="_blank">1</a></sup></p>
 
  <p><code>[cash flows]</code> takes any number of projected cash flows.</p>
 
@@ -55,3 +55,7 @@ Get Finance NPV values as similar to Excel NPV function with Node package soluti
 ### Contributing
 
 Contributions are welcome to aid in the expansion of the library. In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality, and please lint and test your code.
+
+### Reference
+
+1. <a href="http://www.investopedia.com/articles/fundamental-analysis/09/net-present-value.asp" target="_blank">Investopedia</a>
