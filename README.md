@@ -26,7 +26,7 @@ Get Finance NPV values as similar to Excel NPV function with Node package soluti
 
  	var Finance = require('excel-npv');
  	var finance = new Finance();
- 	// To calculate Amortization
+ 	// To calculate NPV
  	finance.NPV(3.125, -100000, 50000, 40000, 30000, 20000);
  	// => 30,192.11
 
@@ -34,7 +34,7 @@ Get Finance NPV values as similar to Excel NPV function with Node package soluti
 
 	import { Finance } from 'financejs'
 	let finance = new Finance();
-	// To calculate Amortization
+	// To calculate NPV
 	finance.NPV(3.125, -100000, 50000, 40000, 30000, 20000);
  	// => 30,192.11
 
