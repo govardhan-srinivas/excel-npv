@@ -1,6 +1,6 @@
 {
   "name": "excel-npv",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Get Finance NPV values as similar to Excel NPV function with Node package solution.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/govardhan-s92/excel-npv.git"
+    "url": "git+https://github.com/govardhan-srinivas/excel-npv.git"
   },
   "keywords": [
     "excel",
@@ -18,7 +18,8 @@
   "author": "govardhan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/govardhan-s92/excel-npv/issues"
+    "url": "https://github.com/govardhan-srinivas/excel-npv/issues"
   },
-  "homepage": "https://github.com/govardhan-s92/excel-npv#readme"
+  "homepage": "https://github.com/govardhan-srinivas/excel-npv#readme",
+  "private": true,
 }
